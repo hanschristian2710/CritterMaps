@@ -12,7 +12,7 @@
 
 Here's an overview of the project:
 
-<img src='http://i.imgur.com/NjvQagI.gif' title='Dice Guessing' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/NjvQagI.gif' title='Critter' width='' alt='Video Walkthrough' />
 
 The number on the right is showing, how many object/animals left on the map.
 
