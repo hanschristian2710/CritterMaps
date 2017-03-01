@@ -14,9 +14,10 @@ Here's an overview of the project:
 
 <img src='http://i.imgur.com/NjvQagI.gif' title='Dice Guessing' width='' alt='Video Walkthrough' />
 
-The number on the right is showing, how many object/animals left on the map.<return>
-The object and animal is shown in a single word: <return>
-1. L = Lion <return>
+The number on the right is showing, how many object/animals left on the map.
+
+The object and animal is shown in a single word: 
+1. L = Lion 
 2. T = Tiger
 3. W = Wolf
 4. B = Bear
