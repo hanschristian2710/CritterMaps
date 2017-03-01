@@ -1,6 +1,6 @@
 #Critter Eater 
 
-**Critter Eater** is a classes/inheritance implementation which simulate a graphical 2D with animals in it that move around and fight each other animal. 
+**Critter Eater** is a class/inheritance implementation which simulate a graphical 2D with animals in it that move around and fight each other animal. 
 
 ## Usage
 1. Clone the repository above
@@ -14,6 +14,7 @@ Here's an overview of the project:
 
 <img src='http://i.imgur.com/NjvQagI.gif' title='Dice Guessing' width='' alt='Video Walkthrough' />
 
+The number on the right is showing, how many object/animals left on the map.
 The object and animal is shown in a single word:
 1. L = Lion
 2. T = Tiger
