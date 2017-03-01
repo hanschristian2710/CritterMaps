@@ -17,6 +17,7 @@ Here's an overview of the project:
 The number on the right is showing, how many object/animals left on the map.
 
 The object and animal is shown in a single word: 
+
 1. L = Lion 
 2. T = Tiger
 3. W = Wolf
